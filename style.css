@@ -37,6 +37,7 @@ aside h1 {
     line-height: 75px;
     letter-spacing: 0em;
     text-align: left;
+    
 
 }
 
@@ -70,7 +71,7 @@ main .actions a {
 
     border-radius: 1.2rem;
     height: 5.5rem;
-    background-color: #35e6e9;
+    background-color: rgb(66, 187, 252);
     font-size: 2.4rem;  
     text-decoration: none; 
     display: flex;
@@ -152,7 +153,7 @@ main form .select-div {
     font-weight: 600;
     position: absolute;
     z-index: 1;
-    color: #35e6e9;
+    color: rgb(66, 187, 252);;
     
  }
 
@@ -166,7 +167,7 @@ main form input + button {
     top: 2.7rem;
     background-color: transparent;
     border: none;
-    color: #35e6e9;
+    color: rgb(66, 187, 252);;
     font-size: 1.9rem;
 
 

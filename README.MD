@@ -44,5 +44,5 @@ O projeto consiste em quatro paginas web que simulam um site de cadastro para en
 
 - [Acesse o projeto finalizado](https://avafabian.github.io/projeto-ada/)
 
-## 🔖 Layout
+
 
